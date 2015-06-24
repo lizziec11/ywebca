@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Elizabeth Cheapoo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lizziec11/ywebca.git"
+  },
+  "author": {
+    "name": "Elizabeth Cheapoo",
+    "email": "elizabethcheapoo@gmail.com",
+    "url": "https://github.com/lizziec11"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
